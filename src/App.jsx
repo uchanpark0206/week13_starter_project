@@ -11,7 +11,7 @@ export default function App() {
       <main className="dashboard">
         <section className="hero">
           <p className="hero-kicker">OPEN SOURCE STUDIO / WEEK 13</p>
-          <h1>Build. Analyze. Deploy. Connect.</h1>
+          <h1>hello world in update branch</h1>
           <p>
             One small React project for GitHub collaboration, component analysis,
             Vercel deployment and REST API integration.
